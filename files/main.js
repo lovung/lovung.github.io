@@ -420,7 +420,7 @@ $("document").ready(function () {
 
 function handleTyping() {
     $(".element").typed({
-        strings: ["I'm an Solfware Engineer from Vietnam . . .",
+        strings: ["I'm a Solfware Engineer from Vietnam . . .",
             "I'm a Golang and Flutter enthusiast . . .",
             "I'm a vim user . . .",
             "I'm a great player in any team . . .",
